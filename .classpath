@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/ratish/Downloads/secondstring-20120620.jar" sourcepath="/home/ratish/Downloads/secondstring/secondstring.zip"/>
+	<classpathentry kind="lib" path="/home/ratish/codebase/saba_people_cloud_apps_dev_lin/libraries/java/lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/ratish/codebase/saba_people_cloud_apps_dev_lin/libraries/java/lib/log4j-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/ratish/codebase/saba_people_cloud_apps_dev_lin/libraries/java/lib/logback-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/ratish/codebase/saba_people_cloud_apps_dev_lin/libraries/java/lib/logback-classic-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/ratish/codebase/saba_people_cloud_apps_dev_lin/libraries/java/lib/logback-access-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
